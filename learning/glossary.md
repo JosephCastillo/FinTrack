@@ -12,4 +12,9 @@
 | **.gitignore** | Es un archivo de configuración que le inidica a Git qué archivos o carpetas no deben formar parte del repositorio porque son generados automáticamente, específicos del entorno local o contienen información que no debe compartise. |
 | **LICENSE** | Especifica los términos legales bajo los cuales el software es distribuido. Define qué permisos tienen otras personas para usar, modifica, copiar y redistribuir el proyecto, así como las obligaciones que deben cumplir.|
 | **README** | Es el documento principal de un proyecto. Su objetivo es explicar qué hace el software, por qué existe, cómo está organizado, cómo ejecutarlo, qué tecnologías utiliza y cómo contribuir a su desarrollo.|
-| **gitadd** | Selecciona qué cambios pasarán al próximo commit.
+| **gitadd** | Selecciona qué cambios pasarán al próximo commit.|
+| **git remote add origin** | Registra un repositorio remoto y le asigna el alis origin, permitiendo que Git lo utilice como destino para operaciones como **push**, **pull** y **fetch** sin tener que escribir URL completa.|
+| **La opción -u** | Establece la rama remotoa como rama de seguimiento de la rama local, permitiendo que futuros ***git push*** y ***git pull*** se ejecuten sin especificar el repositorio remoto ni la rama.
+| **US , RF y CU** | Historias de usuario, Requerimientos funcionales, Casos de uso.
+| **Épicas** | Sirve para organizar el Backlog de forma lógica.
+| **Revisión de Consistencia** | Revisar todo lo que se ha contruido hasta el momento.

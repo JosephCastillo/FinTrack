@@ -2,6 +2,18 @@
 
 > Aplicación web para la gestión de finanzas personales.
 
+---
+## 📚 Lo que aprendí construyendo este proyecto
+
+- Levantamiento de requisitos.
+- Documentación de visión.
+- Git y GitHub.
+- Control de versiones.
+- Buenas prácticas de documentación.
+- Control de versiones.
+- Buenas prácticas de documentación.
+---
+
 ## 📖 Descripción
 
 Fintrack es una aplicación web desarrollada como un proyecto de ingenería de software con el objetivo de ayudar a las personas a comprender, controlar y mejorar sus finanzas mediante el registro y análisis de ingresos y gastos.
