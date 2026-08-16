@@ -18,32 +18,34 @@ Este documento contiene las historias de usuario del proyecto FinTrack. Las hist
 ---
 
 # Épicas
+
 ## EP-001 - Gestión de usuarios
 
-Permite al usuario crea una cuenta, autenticarse y administrar el acceso a FinTrack.
+Permite al usuario crear una cuenta, autenticarse y gestionar su acceso a FinTrack.
 
-Historias Relacionadas:
+### Historias relacionadas
 
 - US-001 - Registrar usuario
-- US-002 - Iniciar sesion
+- US-002 - Iniciar sesión
 
 
-## EP-002 - Gestion Finaciera
+## EP-002 - Gestión financiera
 
-Permitir al usuario registras los datos financieros en Fintrack.
+Permite al usuario registrar sus ingresos y gastos en FinTrack.
 
-Historias Relacionadas:
+### Historias relacionadas
 
 - US-003 - Registrar ingresos
-- US-004 - Registrar Gastos
+- US-004 - Registrar gastos
 
-# EP-003 - Consulta financiera.
 
-Permite al usuario consultar su estado finaciero y tomar decisiones.
+## EP-003 - Consulta financiera
 
-Histroias Relacionadas:
+Permite al usuario consultar su estado financiero y obtener información para tomar mejores decisiones sobre su dinero.
 
-- US-005 Consultar Dashboard
+### Historias relacionadas
+
+- US-005 - Consultar Dashboard
 
 ---
 
@@ -210,47 +212,3 @@ Histroias Relacionadas:
 - Si el usuario aún no ha registrado ingresos, debe invitarlo a registrar el primero.
 - Si no existen movimientos, los indicadores financieros deben mostrarse con valor cero.
 
-# US-006 - Editar movimiento (Futura mejora)
-
-### Historia
-
-**Como** usuario
-**Quiero** editar un movimiento
-**Para** solucionar si por error ingresé de forma inconsistente.
-
-### Prioridad
-
->Alta
-
-### Estado
-
->Pendiente
-
-### MVP
-
->No
-
-### Criterios de aceptación
-- Permitir modificar movimiento.
-
-# US-007 - Eliminar movimiento (Futura mejora)
-
-### Historia
-
-**Como** usuario
-**Quiero** eliminar un movimiento
-**Para** corregir un movimiento que no corresponde.
-
-### Prioridad
-
->Alta
-
-### Estado
-
->Pendiente
-
-### MVP
->No
-
-### Criterios de aceptación
-- Permitir eliminar registro.
