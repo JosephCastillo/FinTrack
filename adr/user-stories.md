@@ -13,7 +13,7 @@
 
 # Introducción
 
-Este documento contiene las historias de usuario del proyecto FinTrack. Las historias describen las funcionalidades desde la perspectiva del usuario y sirven como base para la  contrucción del ***Product Backlog***, la definición de requisitos funcionales y la planificación del desarrollo.
+Este documento contiene las historias de usuario del proyecto FinTrack. Las historias describen las funcionalidades desde la perspectiva del usuario y sirven como base para la  construcción del ***Product Backlog***, la definición de requisitos funcionales y la planificación del desarrollo.
 
 ---
 
@@ -73,8 +73,8 @@ Permite al usuario consultar su estado financiero y obtener información para to
 ### Criterios de aceptación
 
 - El sistema debe permitir ingresar el nombre completo.
-- El sistema debe permitir ingregar un correo electrónico válido.
-- El sistema debe permitir crear una constraseña.
+- El sistema debe permitir ingresar un correo electrónico válido.
+- El sistema debe permitir crear una contraseña.
 - El sistema debe validar que el correo no esté registrado previamente.
 - El sistema debe validar que todos los campos obligatorios estén completos.
 - Al finalizar el registro, debe crearse una cuenta para el usuario.
@@ -120,7 +120,7 @@ Permite al usuario consultar su estado financiero y obtener información para to
 
 **Como** usuario
 **Quiero** registrar mis ingresos
-**Para** llevar un control de mi dinero y conocer cuánto ingreso durate cada periodo.
+**Para** llevar un control de mi dinero y conocer cuánto ingreso durante cada periodo.
 
 ### Prioridad
 
@@ -142,7 +142,7 @@ Permite al usuario consultar su estado financiero y obtener información para to
 - Debe permitir agregar una descripción.
 - Debe registrar la fecha.
 - Debe actualizar automáticamente el saldo.
-- De aparecer en el hitorial.
+- De aparecer en el historial.
 - Debe informar al usuario el registro exitoso del ingreso.
 - Debe informar si ocurrió un error al registrar el ingreso.
 
@@ -169,14 +169,14 @@ Permite al usuario consultar su estado financiero y obtener información para to
 
 ### Criterios de aceptación
 
-- Debe permitir registar el monto.
+- Debe permitir registrar el monto.
 - Debe permitir registrar la categoría.
-- Debe registrar la fecha autoamticamente.
+- Debe registrar la fecha automáticamente.
 - Debe permitir registrar una descripción.
 - Debe permitir registrar el tipo de gasto.
 - Debe informar si el registro se realizó correctamente.
-- Debe infromar si surguió un error.
-- Debe actualizar automatimáticamente el saldo disponible.
+- Debe informar si surgió un error.
+- Debe actualizar automáticamente el saldo disponible.
 - El gasto registrado debe aparecer en el historial de movimientos.
 
 ## US-005 Consultar Dashboard
@@ -206,7 +206,7 @@ Permite al usuario consultar su estado financiero y obtener información para to
 - Debe mostrar un botón para registrar un gasto.
 - Debe mostrar ingresos del periodo.
 - Debe mostrar gastos del periodo.
-- Debe mostrar la categoria con mayor gasto.
+- Debe mostrar la categoría con mayor gasto.
 - Debe mostrar movimientos.
 - Si el usuario no tiene movimientos registrados, debe mostrar un mensaje indicándolo.
 - Si el usuario aún no ha registrado ingresos, debe invitarlo a registrar el primero.
